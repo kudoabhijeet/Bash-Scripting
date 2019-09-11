@@ -1,0 +1,1 @@
+---x--xr-x 1 admin-ka admin-ka 112 Sep  4 08:25 shell1.sh
