@@ -1,0 +1,21 @@
+#PRINT THE PATH OF THE WORKING DIRECTORY
+ $ pwd
+#LIST ALL THE FILES AND FOLDERS IN THE CURRENT WORKINF DIRECTORY
+ $ ls -la
+#CHANGE THE CURRENT DIRECTORY
+ $ cd <path og the target directory>
+# UPDATE THE LAST MODIFIED TIMESTAMP OF A FILE 
+ $ touch <filename>
+#PRINT THE CONTENTS OF A FILE   
+ $ cat <filename>
+#CREATE A NEW DIRECTORY
+ $ mkdir <new directory name>
+# DELETE A DIRECTORY
+ $ rmdir <directory name>
+# COPY FILES TO A DIRECTORY 
+ $ cp <source file> ... <source file> <directroy path destination>
+#MOVE FILE TO A DIRECTORY
+ $ mv <source file> <source file> <destination path>
+# DELETE FILES 
+ $ rm <filename>
+ 
